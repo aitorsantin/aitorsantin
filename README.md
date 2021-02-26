@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **santinaitor@gmail.com**
 
-- 📄 Know about my experiences [I have worked in different fields of programming. Both in the development of Web, desktop or mobile applications and database administration](I have worked in different fields of programming. Both in the development of Web, desktop or mobile applications and database administration)
+- 📄 Know about my experiences I have worked in different fields of programming. Both in the development of Web, desktop or mobile applications and database administration
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
